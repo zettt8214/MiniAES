@@ -1,0 +1,6 @@
+﻿  MiniAes.cpp
+D:\My Program Project\MiniAes\MiniAes\MiniAes.cpp(116,23): warning C4018: “<”: 有符号/无符号不匹配
+D:\My Program Project\MiniAes\MiniAes\MiniAes.cpp(117,27): warning C4018: “<”: 有符号/无符号不匹配
+  test.cpp
+  正在生成代码...
+  MiniAes.vcxproj -> D:\My Program Project\MiniAes\MiniAes\Debug\MiniAes.exe

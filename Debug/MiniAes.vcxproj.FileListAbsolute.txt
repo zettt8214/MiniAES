@@ -1,0 +1,2 @@
+D:\My Program Project\MiniAes\MiniAes\Debug\MiniAes.exe
+D:\My Program Project\MiniAes\MiniAes\Debug\MiniAes.pdb
